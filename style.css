@@ -20,8 +20,8 @@
     height: 200px;
 }
 #microphone,#speaker{
-    width: 75px;px ;
-    height: 75px;px ;
+    width: 75px;
+    height: 75px;
     font-size: 50;
     align-self:auto;
 }
